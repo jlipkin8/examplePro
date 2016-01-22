@@ -1,0 +1,20 @@
+body {
+	background-color: #f2ebf0;
+}
+
+div {
+	padding: 10px; 
+	border-style: double; 
+	border-width: 5px; 
+	margin: 10px; 
+	text-align: center; 
+	background-color: #ffffff; 
+	border-color: #4024bd; 
+	font-family: 'Rokkitt', serif;
+	font-size:x-large;
+}
+
+p {
+	
+	text-align: center; 
+}
