@@ -3,18 +3,39 @@ body {
 }
 
 div {
-	padding: 10px; 
-	border-style: double; 
-	border-width: 5px; 
-	margin: 10px; 
-	text-align: center; 
-	background-color: #ffffff; 
-	border-color: #4024bd; 
+	padding: 10px;
+	border-style: double;
+	border-width: 5px;
+	margin: 10px;
+	text-align: center;
+	background-color: #ffffff;
+	border-color: #4024bd;
 	font-family: 'Rokkitt', serif;
 	font-size:x-large;
 }
 
 p {
-	
-	text-align: center; 
+
+	text-align: center;
+}
+
+#first {
+	background-color: #00ffff;
+	width: 100px;
+	height: 100px;
+	border-radius: 100%;
+}
+
+#second{
+	background-color: #ffbad2;
+	width: 100px;
+	height: 100px;
+	border-radius: 90%;
+}
+
+#third{
+	background-color: #005eff;
+	width: 100px;
+	height: 100px;
+	border-radius: 70%; 
 }
